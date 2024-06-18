@@ -17,7 +17,15 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 #### Model Analysis
 
 **Pre-Processing the dataset and obtain the data into the table form**
-![Vaibhav_validation](Pre-Processing.PNG)
+![Pre-Processing](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/a8650593-7829-47d3-ba30-cab54df26130)
+
+**Graph Between Date Vs Open Price**
+![Processed_Graph](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/9e5cf825-e8ca-4d27-bc45-bd2772b9fc73)
+
+**Applying LSTM Deep learning and Run every dataset through Epochs**
+**Testing Analysis Graph**
+![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/cee71ab4-79b3-48b1-9f0c-e7aba37ae615)
+
 
 ### Future Avenues:
 
