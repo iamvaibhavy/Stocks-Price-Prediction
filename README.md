@@ -10,6 +10,15 @@ The most crucial aspect of machine learning is the dataset utilized; it must be 
 
 The model is evaluated using a separate test dataset. Both Regression and LSTM models are utilized for prediction. Regression focuses on minimizing error, while LSTM is adept at capturing long-term data dependencies. The project involves plotting graphs to visualize price fluctuations over time for comparing actual and predicted prices for the LSTM model. Additionally, the project estimates the accuracy percentage and predicts sample prices.
 
+## Getting Started
+1. Download or clone project from github
+2. Run project
+
+#### Model Analysis
+
+**Pre-Processing the dataset and obtain the data into the table form**
+![Vaibhav_validation](Pre-Processing.PNG)
+
 ### Future Avenues:
 
 Future enhancements for this project include incorporating additional parameters, such as financial ratios and multiple instances, to enhance accuracy. The algorithms can also be adapted to analyze public comments, identifying patterns and relationships between customers and corporate employees. Additionally, traditional algorithms and data mining techniques can also be employed to predict the overall performance structure of the corporation.
