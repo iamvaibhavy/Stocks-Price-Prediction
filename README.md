@@ -23,6 +23,9 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 ![Processed_Graph](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/9e5cf825-e8ca-4d27-bc45-bd2772b9fc73)
 
 **Applying LSTM Deep learning and Run every dataset through Epochs**
+![D1](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/7fff5d83-97d0-4cb0-8e10-a0f432bf027a)
+![D2](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/56b06411-11df-44fa-955c-10cb579bcea7)
+
 **Testing Analysis Graph**
 ![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/cee71ab4-79b3-48b1-9f0c-e7aba37ae615)
 
