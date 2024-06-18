@@ -16,7 +16,7 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 
 #### Model Analysis
 
-**Pre-Processing the dataset and obtain the data into the table form**
+**Pre-Processing the datasets and obtain the data into the table form**
 ![Pre-Processing](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/a8650593-7829-47d3-ba30-cab54df26130)
 
 **Graph Between Date Vs Open Price**
@@ -26,6 +26,15 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 ![D1](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/7fff5d83-97d0-4cb0-8e10-a0f432bf027a)
 ![D2](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/56b06411-11df-44fa-955c-10cb579bcea7)
 ![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/4e55f167-6f8d-4d0c-abbc-8583fcd6e0d0)
+
+
+**Using Regression Model To Predict Accuracy Of Models And Price of Stocks**
+![r1](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/b29dfcb4-bf41-4bab-a1e7-f2ba3b2c5500)
+![r2](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/84c4bf08-11c0-4b29-b9df-af5bc1c9b6cf)
+![r3](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/2cb3acef-60b6-4eb4-a4bd-3ec8ed0722b2)
+![r4](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/2f2f6db4-1d38-4805-8132-eac5b1dd7b08)
+
+
 
 
 ### Future Avenues:
