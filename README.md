@@ -29,7 +29,32 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 
 
 **Testing Analysis Graph**
-![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/cee71ab4-79b3-48b1-9f0c-e7aba37ae615)
+![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/4e55f167-6f8d-4d0c-abbc-8583fcd6e0d0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Future Avenues:
