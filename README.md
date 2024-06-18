@@ -16,19 +16,19 @@ The model is evaluated using a separate test dataset. Both Regression and LSTM m
 
 #### Model Analysis
 
-**Pre-Processing the datasets and obtain the data into the table form**
+**Pre-processing the datasets and transform the data into a tabular format**
 ![Pre-Processing](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/a8650593-7829-47d3-ba30-cab54df26130)
 
 **Graph Between Date Vs Open Price**
 ![Processed_Graph](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/9e5cf825-e8ca-4d27-bc45-bd2772b9fc73)
 
-**Applying LSTM Deep learning, Run every dataset through Epochs and Testing Analysis Graph**
+**Apply LSTM deep learning, run each dataset through multiple epochs, and perform testing analysis with graphical representation**
 ![D1](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/7fff5d83-97d0-4cb0-8e10-a0f432bf027a)
 ![D2](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/56b06411-11df-44fa-955c-10cb579bcea7)
 ![Deep Learning_TestingResult ](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/4e55f167-6f8d-4d0c-abbc-8583fcd6e0d0)
 
 
-**Using Regression Model To Predict Accuracy Of Models And Price of Stocks**
+**Utilize a regression model (Random Forest Regression) to predict the accuracy of the models and forecast stock prices**
 ![r1](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/b29dfcb4-bf41-4bab-a1e7-f2ba3b2c5500)
 ![r2](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/84c4bf08-11c0-4b29-b9df-af5bc1c9b6cf)
 ![r3](https://github.com/iamvaibhavy/Stocks-Price-Prediction1/assets/97886453/2cb3acef-60b6-4eb4-a4bd-3ec8ed0722b2)
